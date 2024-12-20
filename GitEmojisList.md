@@ -16,6 +16,7 @@ inspired by <a href="https://github.com/dannyfritz/commit-message-emoji">@dannyf
 |:art: `:art:`|Styles|
 |:gem: `:gem:`|Adding image|
 |:page_facing_up: `:page_facing_up:`|Adding text file|
+|:gift: `:gift:`|Import package|
 |:airplane: `:airplane:`|Translation|
 |:space_invader: `:space_invader:`|Configuration files|
 |:package: `:package:`|Package.json|
