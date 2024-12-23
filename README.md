@@ -23,5 +23,5 @@ inspired by <a href="https://github.com/dannyfritz/commit-message-emoji">@dannyf
 |:o: `:o:`|Adding dependency|
 |:x: `:x:`|Removing dependency|
 |:clipboard: `:clipboard:`|Metadata|
-
+|:bookmark: `:bookmark:`|Version tag|
 
